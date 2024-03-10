@@ -1,2 +1,2 @@
 # SG-JavaTuts
-This repository contains Java tutorial.
+This repository contains Java tutorial.  
